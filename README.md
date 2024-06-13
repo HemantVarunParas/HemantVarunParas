@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hello, I'm Hemant Varun Paras
+<a href="https://linkedin.com/in/varunparas/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<!--
-**HemantVarunParas/HemantVarunParas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am a recent graduate with a profound interest in technology and a dedication to solving complex problems. I'm actively seeking opportunities to leverage my ethical hacking, penetration testing, and network security skills to help organizations strengthen their defenses.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Objective
+
+My journey through computer science has ignited a deep passion for cybersecurity. This GitHub page is dedicated to showcasing my learning experiences and projects in the field of cybersecurity. Enjoy!!!
+
+## Skills
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+|           | <a href="https://google.com">Detection Lab</a>|
+
+
+## Tools
+
+
+
+## Certifications
+
+<div>
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+
+</div>
+
+## Projects
+- Detection Lab
+- SOC Automation Project
