@@ -16,16 +16,20 @@ My journey through computer science has ignited a deep passion for cybersecurity
 
 
 ## Tools
+<div>
+<img src="https://img.shields.io/badge/-Microsoft%20Defender-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=VirtualBox&logoColor=white" />
 
-
+</div>
 
 ## Certifications
-
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-SC--200%20Security%20Operations%20Analyst-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 
 </div>
 
 ## Projects
 - Detection Lab
-- SOC Automation Project
+
