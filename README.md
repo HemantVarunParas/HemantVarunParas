@@ -12,7 +12,7 @@ My journey through computer science has ignited a deep passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-|  Wireshark        | |
+|  Metasploit & Splunk       | |
 
 
 ## Tools
