@@ -12,7 +12,7 @@ My journey through computer science has ignited a deep passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-|  Metasploit & Splunk       | |
+|  Metasploit & Splunk       | <a href = "https://github.com/HemantVarunParas/Cyber-Attacks-and-Log-Analysis-with-VirtualBox-and-Splunk"> Cyber Attack & Log Analysis </a> |
 
 
 ## Tools
@@ -31,5 +31,5 @@ My journey through computer science has ignited a deep passion for cybersecurity
 </div>
 
 ## Projects
-- Detection Lab
+- <a href = "https://github.com/HemantVarunParas/Cyber-Attacks-and-Log-Analysis-with-VirtualBox-and-Splunk"> Cyber Attack & Log Analysis </a>
 
