@@ -14,19 +14,25 @@ My journey through computer science has ignited a deep passion for cybersecurity
 |-----------------------------------------------|----------------------------|
 |  Metasploit & Splunk       | <a href = "https://github.com/HemantVarunParas/Cyber-Attacks-and-Log-Analysis-with-VirtualBox-and-Splunk"> Cyber Attack & Log Analysis </a> |
 
+## Certifications
+<div>
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-SC--200%20Security%20Operations%20Analyst-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 
 ## Tools
 <div>
 <img src="https://img.shields.io/badge/-Microsoft%20Defender-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=VirtualBox&logoColor=white" />
-
+<img src="https://img.shields.io/badge/-Splunk-FF7829?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
-## Certifications
+## Systems
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-SC--200%20Security%20Operations%20Analyst-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/-Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+<img src="https://img.shields.io/badge/-iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
 
 </div>
 
