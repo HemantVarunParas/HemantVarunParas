@@ -13,6 +13,8 @@ My journey through computer science has ignited a deep passion for cybersecurity
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 |  Metasploit & Splunk       | <a href = "https://github.com/HemantVarunParas/Cyber-Attacks-and-Log-Analysis-with-VirtualBox-and-Splunk"> Cyber Attack & Log Analysis </a> |
+|  Phishing Analysis & Threat Intel     | <a href = "https://github.com/HemantVarunParas/GrabThePhisher-CTF-Lab"> GrabThePhisher </a> |
+
 
 ## Certifications
 <div>
@@ -38,4 +40,5 @@ My journey through computer science has ignited a deep passion for cybersecurity
 
 ## Projects
 - <a href = "https://github.com/HemantVarunParas/Cyber-Attacks-and-Log-Analysis-with-VirtualBox-and-Splunk"> Cyber Attack & Log Analysis </a>
+- <a href = "https://github.com/HemantVarunParas/GrabThePhisher-CTF-Lab"> GrabThePhisher </a> 
 
